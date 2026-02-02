@@ -196,7 +196,7 @@
     },
     {
       "parameters": {
-        "sendTo": "tulsivasoya0342@gmail.com",
+        "sendTo": "",
         "subject": "Your news daily summary",
         "emailType": "text",
         "message": "={{ $json.output }}",
